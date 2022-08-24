@@ -1,0 +1,44 @@
+[
+{
+
+   "fullNameField":"farouk" ,
+   "storeNameField":"supermarket1" ,
+   "phoneNumberField" : "01151077910",
+   "emailField" : "@yahoo.com",
+   "passwordField" : "124486_Dr",
+   "retypePasswordField" : "124486_Dr"
+},
+  {
+    "fullNameField":"ahmed" ,
+    "storeNameField":"supermarket2" ,
+    "phoneNumberField" : "01151078",
+    "emailField" : "ahmedmohamed@yahoo.com",
+    "passwordField" : "2323456_Dr",
+    "retypePasswordField" : "2323456_Dr"
+  },
+  {
+    "fullNameField":"mahmoud" ,
+    "storeNameField":"supermarket" ,
+    "phoneNumberField" : "01151078",
+    "emailField" : "@yahoo.com",
+    "passwordField" : "167456_Dr",
+    "retypePasswordField" : "167456_Dr"
+  },
+  {
+    "fullNameField":"amal" ,
+    "storeNameField":"amal_supermarket" ,
+    "phoneNumberField" : "01178923456",
+    "emailField" : "test@yahoo",
+    "passwordField" : "393456_Dr",
+    "retypePasswordField" : "393456_Dr"
+  },
+  {
+    "fullNameField":"mohsen" ,
+    "storeNameField":"kishok" ,
+    "phoneNumberField" : "01151898961",
+    "emailField" : "mohsen@yahoo.com",
+    "passwordField" : "2893456_Dr",
+    "retypePasswordField" : "2893456_Dr"
+  }
+
+]
